@@ -7,4 +7,4 @@ Base Sonic Sprite Sheet: Credit to Xeric (OG Artist), Deebs, t0ms0nic https://ww
 
 ##	Music
 
-##	
+##	Fonts

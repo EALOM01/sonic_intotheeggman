@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_sonic_base_idle","path":"sprites/spr_sonic_base_idle/spr_sonic_base_idle.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
