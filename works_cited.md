@@ -9,3 +9,4 @@ Base Sonic Sprite Sheet: Credit to Xeric (OG Artist), Deebs, t0ms0nic https://ww
 
 ##	Fonts
 Andes Font (Sonic 3 Font): Credit to Iconian Fonts http://www.thealmightyguru.com/GameFonts/Series-Sonic.html
+Sonic Title Font: Credit to Sega Enterprises http://www.thealmightyguru.com/GameFonts/Series-Sonic.html
