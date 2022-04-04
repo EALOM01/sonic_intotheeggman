@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
     {"id":{"name":"spr_sonic_base_idle","path":"sprites/spr_sonic_base_idle/spr_sonic_base_idle.yy",},"order":0,},
     {"id":{"name":"SonicAdvance2","path":"fonts/SonicAdvance2/SonicAdvance2.yy",},"order":2,},
     {"id":{"name":"Sonic3","path":"fonts/Sonic3/Sonic3.yy",},"order":0,},
