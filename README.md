@@ -6,6 +6,8 @@ All assets that are not mine will be cited in the Works Cited section of this pr
 
 ##		Plot
 This is a Sonic fan game that retells the story of all relevant Sonic the Hedgehog games starring Sonic the Hedgehog and his nemesis, Dr. Ivo Robotnik AKA the Eggman from the very beginning (before Sonic 1) to Sonic Forces--maybe Sonic Frontiers as that will come soon as of writing this manual.
+The gameplay will be an RPG world explorer, dungeon-crawling infinite runner, and a deck-building/turn-based/racing game (in-depth explanation later).
+Note that this isn't a Sonic.EXE game, but may contain trace elements of horror.
 ###		Episodes with games featured:
 ####	Episode 0: Sayonara, Kintobor! (None)
 This episode is an original story that acts as a prologue to Sonic 1. It will explain how Sonic and Eggman came to be using the Kintobor origin.
