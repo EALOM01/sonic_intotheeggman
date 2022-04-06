@@ -23,6 +23,7 @@ https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/sheet/16
 Credit to Louplayer and Sonic Team/SEGA
 ####	EggRobo Sonic 3 Style
 https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/sheet/127868/
+Credit to Sonic Team/SEGA, Dolphman, and Egg Master
 
 ##		Music
 
