@@ -2,12 +2,13 @@
   "resources": [
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
     {"id":{"name":"sonic_jog_right","path":"sprites/sonic_jog_right/sonic_jog_right.yy",},"order":0,},
+    {"id":{"name":"sonic_base_spin_r","path":"sprites/sonic_base_spin_r/sonic_base_spin_r.yy",},"order":1,},
     {"id":{"name":"spr_sonic_base_idle","path":"sprites/spr_sonic_base_idle/spr_sonic_base_idle.yy",},"order":0,},
     {"id":{"name":"SonicAdvance2","path":"fonts/SonicAdvance2/SonicAdvance2.yy",},"order":2,},
     {"id":{"name":"Sonic3","path":"fonts/Sonic3/Sonic3.yy",},"order":0,},
     {"id":{"name":"SonicTitle","path":"fonts/SonicTitle/SonicTitle.yy",},"order":1,},
     {"id":{"name":"sonic_walk_right","path":"sprites/sonic_walk_right/sonic_walk_right.yy",},"order":1,},
-    {"id":{"name":"sonic_spin_r","path":"sprites/sonic_spin_r/sonic_spin_r.yy",},"order":5,},
+    {"id":{"name":"sonic_spin_r","path":"sprites/sonic_spin_r/sonic_spin_r.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
